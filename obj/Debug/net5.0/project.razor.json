@@ -15629,6 +15629,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Connor\\Documents\\.NET WEB DEVELOPMENT\\UserAdminTool\\Views\\Home\\Edit.cshtml",
+      "TargetPath": "Views\\Home\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Connor\\Documents\\.NET WEB DEVELOPMENT\\UserAdminTool\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -15651,6 +15656,11 @@
     {
       "FilePath": "c:\\Users\\Connor\\Documents\\.NET WEB DEVELOPMENT\\UserAdminTool\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Connor\\Documents\\.NET WEB DEVELOPMENT\\UserAdminTool\\Views\\Home\\create.cshtml",
+      "TargetPath": "Views\\Home\\create.cshtml",
       "FileKind": "mvc"
     }
   ],
